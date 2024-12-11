@@ -9,7 +9,7 @@ Please read the documentation thoroughly which is located in two places:
 ## Installation
 To install this C2 profile on your Mythic server, log into your Mythic server's command line and run the following command:  
 ```
-sudo ./mythic-cli install github https://github.com/scottctaylor12/github
+sudo ./mythic-cli install github https://github.com/MythicC2Profiles/github
 ```
 
 ## Setup
@@ -21,6 +21,6 @@ At this time, the following agents can use the GitHub C2 Profile:
 
 ## Development
 I'm happy to have a look at code contributions! 
-Please contribute to the `dev` branch at https://github.com/scottctaylor12/github :)
+Please contribute to the `dev` branch at https://github.com/MythicC2Profiles/github :)
 
 The C2 server code is written in Python and located in `C2_Profiles/github/github/c2_code`
