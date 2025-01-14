@@ -45,8 +45,12 @@ sequenceDiagram
 ## Setup
 
 ### 1. GitHub Repo
-Go to github.com and create a new repository. 
-For better OPSEC, make the repo private.
+Go to github.com and create a new repository.
+* The repo should be private for better OPSEC
+* The repo must contain content, so check * [x] Add a README file*
+* When adding a README file, GitHub automatically creates a `main` branch (as seen near the bottom of the screenshot) which must exist
+
+![image](./create-repo.png)
 
 ### 2. GitHub Issues
 In the newly created github repository, create **2** new GitHub issues by browsing to `https://github.com/$USER/$REPO/issues`. 
