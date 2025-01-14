@@ -47,7 +47,7 @@ sequenceDiagram
 ### 1. GitHub Repo
 Go to github.com and create a new repository.
 * The repo should be private for better OPSEC
-* The repo must contain content, so check * [x] Add a README file*
+* The repo must contain content, so check *[x] Add a README file*
 * When adding a README file, GitHub automatically creates a `main` branch (as seen near the bottom of the screenshot) which must exist
 
 ![image](./create-repo.png)
